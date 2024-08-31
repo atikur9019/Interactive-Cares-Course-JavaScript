@@ -5,6 +5,6 @@ let arr = ['Saidur', 'Rhaman', 'Atikur', 'Rhamn', 'Atik', 'Emon', 'Tamim', 'Setu
     
 // }
 
-arr.forEach(function(el) {
-    console.log(el);
+arr.forEach(function(hhhhhh) {
+    console.log(hhhhhh);
 });
