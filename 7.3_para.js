@@ -8,3 +8,5 @@ function add(num1, num2) {
 
 add(a, b);
 add(30, 30);
+
+let c = 30;
