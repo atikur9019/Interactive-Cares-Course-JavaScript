@@ -23,3 +23,5 @@ function sayHello() {
 }
 
 sayHello();
+
+// function with default parameter
